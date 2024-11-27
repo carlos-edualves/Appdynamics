@@ -1,0 +1,1 @@
+## Scripts que eu utilizei em automações para Appdynamics
